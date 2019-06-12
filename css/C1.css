@@ -1,0 +1,12 @@
+.navbar-brand{
+        padding-top: 5px;
+}
+
+.navbar-inverse {
+background-color: $navbar-inverse-bg;
+border-color: $navbar-inverse-border;
+height: 110px;
+font-size: 20px;
+}
+
+
